@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <translate-->
+<!--        android:fromYDelta="100"-->
+<!--        android:fromXDelta="100"-->
+<!--        android:toXDelta="1000"-->
+<!--        android:toYDelta="-1000"-->
+<!--        android:duration = "2000"-->
+<!--        android:repeatCount = "infinite"-->
+
+<!--        />-->
+    <translate
+        android:startOffset = "500"
+        android:fromYDelta="500"
+        android:fromXDelta="-500"
+        android:toXDelta="1000"
+        android:toYDelta="-1000"
+        android:duration = "2500"
+        android:repeatCount = "infinite"
+
+        />
+</set>

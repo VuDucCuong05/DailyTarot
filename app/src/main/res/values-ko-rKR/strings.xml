@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">일일 타로</string>
+    <string name="tv_start_scan">손가락을 스캔하려면 길게 누르세요</string>
+    <string name="tv_loading_prediction">손가락을 스캔하려면 길게 누르세요</string>
+    <string name="tv_getting_your_prediction">당신의 예측을 얻기...</string>
+    <string name="tv_new_prediction">새로운 예측</string>
+    <string name="tv_history">역사</string>
+    <string name="tv_content_prediction">Lorem Ipsum은 단순히 인쇄 및 조판 산업의 더미 텍스트입니다. Lorem Ipsum은 1500년대 무명의 프린터가 활자 갤리선을 가져와 활자 표본 책을 만들기 위해 뒤섞인 이래로 업계 표준 더미 텍스트였습니다. 그것은 5세기 동안 살아남았을 뿐만 아니라 전자 조판으로의 도약에도 불구하고 본질적으로 변하지 않은 채로 남아 있습니다. 그것은 1960년대에 Lorem Ipsum 구절이 포함된 Letraset 시트의 출시로 대중화되었으며, 더 최근에는 알 수 없는 프린터가 활자 갤리를 가져와서 스크램블한 1500년대 이후 버전 표준 더미 텍스트를 포함하는 Aldus PageMaker와 같은 탁상 출판 소프트웨어로 대중화되었습니다. 유형 견본 책. 그것은 5세기 동안 살아남았을 뿐만 아니라 전자 조판으로의 도약에도 불구하고 본질적으로 변하지 않은 채로 남아 있습니다. 그것은 1960년대에 Lorem Ipsum 구절이 포함된 Letraset 시트의 출시로 대중화되었으며, 더 최근에는 알 수 없는 프린터가 활자 갤리를 가져와서 스크램블한 1500년대 이후 버전 표준 더미 텍스트를 포함하는 Aldus PageMaker와 같은 탁상 출판 소프트웨어로 대중화되었습니다. 유형 견본 책. 그것은 5세기 동안 살아남았을 뿐만 아니라 전자 조판으로의 도약에도 불구하고 본질적으로 변하지 않은 채로 남아 있습니다. 1960년대에 Lorem Ipsum 구절이 포함된 Letraset 시트가 출시되어 대중화되었으며 최근에는 Lorem Ipsum 버전을 포함하는 Aldus PageMaker와 같은 탁상 출판 소프트웨어로 대중화되었습니다.</string>
+    <string name="tv_language">언어</string>
+    <string name="tv_remove">광고를 제거하다</string>
+    <string name="tv_rate_app">앱 평가</string>
+    <string name="tv_share_app">앱 공유</string>
+    <string name="tv_notification">공고</string>
+    <string name="tv_contact_us">문의하기</string>
+    <string name="tv_rate_your_experience">당신의 경험을 평가</string>
+    <string name="tv_thanks_for_the_rating">평가 주셔서 감사합니다</string>
+    <string name="tv_no_later">나중에</string>
+    <string name="tv_rate_now">지금 평가</string>
+    <string name="tv_title_remove">추가에 지쳤습니까?</string>
+    <string name="tv_title_remove1">지금 저희 플랜 중 하나에 가입하세요</string>
+    <string name="tv_weekly_premium">주간 프리미엄</string>
+    <string name="tv_disable_all_ads_for_a_week">일주일 동안 모든 광고 비활성화</string>
+    <string name="tv_monthly">월간 프리미엄</string>
+    <string name="tv_disable_all_ads_for_a_monthly">월간 모든 광고 비활성화</string>
+    <string name="tv_yearly">연간 프리미엄</string>
+    <string name="tv_disable_all_ads_for_a_yearly">연간 모든 광고 비활성화</string>
+
+    <string name="tv_americ">미국</string>
+    <string name="tv_england">영국</string>
+    <string name="tv_belgium">벨기에</string>
+    <string name="tv_brazil">브라질</string>
+    <string name="tv_netherland">네덜란드</string>
+    <string name="tv_south_korea">대한민국</string>
+</resources>

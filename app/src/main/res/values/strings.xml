@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Daily Tarot</string>
+    <string name="tv_scan_50" translatable="false">50%</string>
+    <string name="tv_scan_80" translatable="false">80%</string>
+    <string name="tv_scan_100" translatable="false">100%</string>
+    <string name="tv_loading_prediction">Hold To Scan Your Finger</string>
+    <string name="tv_getting_your_prediction">Getting Your Prediction...</string>
+    <string name="tv_new_prediction">New Prediction</string>
+    <string name="tv_history">History</string>
+    <string name="tv_content_prediction">Lorem Ipsum is simply dummy text of the printing and typesetting industry
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry
+    </string>
+
+    <string name="tv_language">Language</string>
+    <string name="tv_remove">Remove Ads</string>
+    <string name="tv_rate_app">Rate App</string>
+    <string name="tv_share_app">Share App</string>
+    <string name="tv_notification">Notification</string>
+    <string name="tv_contact_us">Contact Us</string>
+
+    <string name="tv_rate_your_experience">Rate Your Experience</string>
+    <string name="tv_thanks_for_the_rating">Thanks For The Rating</string>
+    <string name="tv_no_later">No Later</string>
+    <string name="tv_rate_now">Rate Now</string>
+    <string name="tv_title_remove">Tired Of Add ?</string>
+    <string name="tv_title_remove1">Subscribe To One Of Our Plans Now</string>
+    <string name="tv_weekly_premium">Weekly Premium</string>
+    <string name="tv_disable_all_ads_for_a_week">Disable all ads for a week</string>
+
+    <string name="tv_price" translatable="false">$18.00</string>
+    <string name="tv_price1" translatable="false">$80.00</string>
+    <string name="tv_price2" translatable="false">$100.00</string>
+    <string name="tv_monthly">Monthly Premium</string>
+    <string name="tv_disable_all_ads_for_a_monthly">Disable all ads for a monthly</string>
+
+    <string name="tv_yearly">Yearly Premium</string>
+    <string name="tv_disable_all_ads_for_a_yearly">Disable all ads for a yearly</string>
+    <string name="tv_link_app" translatable="false">https://play.google.com/store/apps/details?id=info.vazquezsoftware.tarot</string>
+    <string name="tv_start_scan">Hold To Scan Your Finger</string>
+
+    <string name="tv_americ">America</string>
+    <string name="tv_england">England</string>
+    <string name="tv_belgium">Belgium</string>
+    <string name="tv_brazil">Brazil</string>
+    <string name="tv_netherland">Netherlands</string>
+    <string name="tv_south_korea">South Korea</string>
+
+</resources>
